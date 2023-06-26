@@ -1,0 +1,15 @@
+#formedit{
+    background-color: rgb(0, 255, 94);
+}
+
+#formadd{
+    background-color: yellow;
+}
+
+.show{
+    display: inline;
+}
+
+.hide{
+    display: none;
+}
